@@ -81,8 +81,8 @@ body{
 }
   .card-container {
     display: flex;
-    gap: 5px; /* Adjust the space between cards */
-    justify-content:space-evenly; /* Distributes cards along the container */
+    gap: 5px; 
+    justify-content:space-evenly;
     
   }
 
@@ -104,7 +104,7 @@ body{
   
   .card {
     width: 200px;
-    height: 200px; /* Adjust card width based on container width */
+    height: 200px; 
     position: relative;
     overflow: hidden;
     border: 1px solid #ccc;
